@@ -1,1 +1,2 @@
-Firt Git file
+First Git file
+Updated the file
