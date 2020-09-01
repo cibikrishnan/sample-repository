@@ -1,4 +1,6 @@
 First Git file
 Updated the file
 Second update to the file
+<<<<<<< HEAD
 Updated from Branch 2
+
